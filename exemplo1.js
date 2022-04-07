@@ -1,6 +1,6 @@
 // 1 - Solicite o preço de uma mercadoria e o 
 // percentual de desconto 20%. Exiba no console 
-// o valor do desconto e o preço a pagar.
+// o valor do desconto e o preço a pagar..
 
 let precoCaderno = 50
 const desconto = 0.20

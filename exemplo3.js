@@ -1,5 +1,5 @@
 //3 - Crie um algoritmo que leia o valor de um jantar, 
-// calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago.
+// calcule e informe o valor da taxa do garçom (10%) e o valor total a ser pago..
 
 let valorDoJantar = 1584
 let taxaGarcom = (10/100)*1500

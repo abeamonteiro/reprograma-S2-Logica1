@@ -1,3 +1,4 @@
+//5 - Receba do usuários 3 números e calcule a média entre eles.
 
 let num1 = 84
 let num2 = 48
