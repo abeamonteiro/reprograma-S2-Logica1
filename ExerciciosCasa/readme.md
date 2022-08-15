@@ -1,3 +1,0 @@
-Nesta semana pude aprender a respeito de como declarar variáveis que podem ter seus valores modificados posteirormente (let) e variáveis que manterão seus valores constantes durante toda a execução do projeto (const). Ainda dentro da linguagem Java Script vivenciei momentos iniciais com a utlização de operações matemáticas básicas, como podemos utlizar os comandos console.log e typeof na sintaxe utilizada. 
-Por fim, experienciei a utilização da ferramenta NodeJS para verificar o funcionamento do que foi programado na lingaguem Java Script.
-Sinto necessidade de exercitar o uso de outros operadores além dos aritiméticos, como mais alguns de atribuição (além do utilizado na declaração da variável), os de comparação e os lógicos.
