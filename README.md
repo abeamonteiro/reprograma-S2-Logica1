@@ -448,4 +448,5 @@ Resolva as questões abaixo:
 - [spotify](https://open.spotify.com/show/59vCz4TY6tPHXW26qJknh3)
 - [quero ser dev](https://queroserdev.com)
 
-## Repositório da aula: https://github.com/reprograma/On16-TodasEmTech-S2-Logica-1
+## Repositório da aula: 
+https://github.com/reprograma/On16-TodasEmTech-S2-Logica-1
